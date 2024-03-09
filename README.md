@@ -17,4 +17,9 @@
 
 ## Outros
 - Documentação atualizada para refletir as mudanças e adições realizadas.  
-- Testes adicionais para garantir a robustez das novas funcionalidades e correções.  
+- Testes adicionais para garantir a robustez das novas funcionalidades e correções.
+
+  ## Diagrama do projeto
+
+  ![image](https://github.com/guigomes91/generic-dao/assets/44264050/34772f0d-77a2-4d38-9c48-605f1bb52b36)
+
