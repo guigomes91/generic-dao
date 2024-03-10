@@ -21,5 +21,6 @@
 
   ## Diagrama do projeto
 
-  ![image](https://github.com/guigomes91/generic-dao/assets/44264050/34772f0d-77a2-4d38-9c48-605f1bb52b36)
+![image](https://github.com/guigomes91/generic-dao/assets/44264050/db22b1b3-1a70-4730-bc07-e26e27876090)
+
 
